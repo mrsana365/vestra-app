@@ -1,6 +1,6 @@
 # 🛒 Full Stack eCommerce Website
 
-This is a full-stack eCommerce web application where users can explore products, filter and sort them, select variants (like size), add them to the cart, and place orders using multiple payment methods. The platform also includes an admin dashboard for product and order management. This project leverages modern web technologies, payment gateways (Stripe & Razorpay), and a robust backend API built with Node.js, Express, and MongoDB.
+Vestra is a full-stack eCommerce web application where users can explore products, filter and sort them, select variants (like size), add them to the cart, and place orders using multiple payment methods. The platform also includes an admin dashboard for product and order management. This project leverages modern web technologies, payment gateways (Stripe & Razorpay), and a robust backend API built with Node.js, Express, and MongoDB.
 
 ---
 
@@ -15,7 +15,6 @@ This is a full-stack eCommerce web application where users can explore products,
 - Choose from:
   - **Cash on Delivery (COD)**
   - **Online Payments** via:
-    - 🟣 Stripe
     - 🟠 Razorpay
 
 ---
@@ -33,8 +32,8 @@ This is a full-stack eCommerce web application where users can explore products,
 
 ### Frontend:
 - HTML5, CSS3, JavaScript
-- React.js (if used)
-- Axios for API requests
+- React.js
+-  API requests
 
 ### Backend:
 - Node.js
@@ -51,5 +50,4 @@ This is a full-stack eCommerce web application where users can explore products,
 
 ---
 
-## 📁 Project Structure (Sample)
 
